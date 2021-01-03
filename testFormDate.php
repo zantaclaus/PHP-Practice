@@ -8,6 +8,7 @@
 <body>
     <form action="" method="get">
         เลือกวันที่
+        <br>
         <input type="date" name="mydate">
         <br>
         <button type="submit">Save</button>

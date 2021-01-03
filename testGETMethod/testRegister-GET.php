@@ -11,7 +11,7 @@
         <input type="text" name="search" required>
         <br>
 
-        <button type="submit">Press</button>
+        <button type="submit">Press</ button>
     </form>
 </body>
 </html>
